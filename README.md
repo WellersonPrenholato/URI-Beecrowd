@@ -1,5 +1,5 @@
-# [URI - Online Judge (Problems & Contests)]
-> Algumas soluções para problemas do URI Online Judge. As soluções foram desenvolvidas
+# 👨🏻‍💻 [URI - Online Judge (Problems & Contests)]
+> 📌 Algumas soluções para problemas do URI Online Judge. As soluções foram desenvolvidas
 em C e C++.
 
 O URI Online Judge é um projeto que está sendo desenvolvido pela Computer Science 
