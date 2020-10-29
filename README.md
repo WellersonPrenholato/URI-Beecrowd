@@ -3,7 +3,7 @@
 </p>
  
 <p align="center">
-<h1> 👨🏻‍💻 [URI - Online Judge (Problems & Contests)] </h1>
+  <h1> 👨🏻‍💻 <a href="https://www.urionlinejudge.com.br/">URI - Online Judge (Problems & Contests)</a></h1>
 </p>
 
 > 📌 Algumas soluções para problemas do URI Online Judge. As soluções foram desenvolvidas
