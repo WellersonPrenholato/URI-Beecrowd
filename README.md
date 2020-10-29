@@ -2,9 +2,7 @@
   <img width="200" height="100" src="https://user-images.githubusercontent.com/41811634/63442127-f0c90880-c408-11e9-96c5-b3a3168e3d2f.png">
 </p>
  
-<p align="center">
-  <h1> 👨🏻‍💻 <a href="https://www.urionlinejudge.com.br/">URI - Online Judge (Problems & Contests)</a></h1>
-</p>
+<h1> 👨🏻‍💻 <a href="https://www.urionlinejudge.com.br/">URI - Online Judge (Problems & Contests)</a></h1>
 
 > 📌 Algumas soluções para problemas do URI Online Judge. As soluções foram desenvolvidas
 em C e C++.
